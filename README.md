@@ -2,7 +2,7 @@
 
 ### Hello!! Thanks for visiting my github :blue_heart:
 
-I'm currently working as Lead Software Developer and instructor at LinkedIn Learning and Codigo Facilito.
+I'm currently working as Lead Software Developer and instructor at LinkedIn Learning.
 
 You'll here find public repositories with Vue.js, .NET, Bootstrap examples.
 Feel free to contact me if you have any suggestions or questions.
