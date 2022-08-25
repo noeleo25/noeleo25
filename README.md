@@ -1,4 +1,4 @@
-![Noemi Leon](https://github.com/noeleo25/my-web-resources/blob/master/logo-2020/full-color/SVG/horizontal-color.svg?raw=true)
+![Noemi Leon](https://github.com/noeleo25/my-web-resources/blob/master/logo-2020/full-color/SVG/horizontal-color.svg)
 
 ### Hello!! Thanks for visiting my github :blue_heart:
 
