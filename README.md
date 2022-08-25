@@ -5,16 +5,16 @@
 ### I'm currently working as Lead Software Developer.
 
 #### Main tech stack: 
->> Frontend
+##### Frontend
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" align="left" height="48" width="48" alt="JavaScript" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" align="left" height="48" width="48" alt="Vue.js" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" align="left" height="48" width="48" alt="Nuxt" >
 
->> Backend
+##### Backend
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="left" height="48" width="48" alt="Csharp" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" align="left" height="48" width="48" alt=".NET" >
 
->> Others
+##### Others
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" align="left" height="48" width="48" alt="firebase" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" align="left" height="48" width="48" alt="Jest" >
 
@@ -25,5 +25,5 @@
 I also share with communities as speacker or mentor. I'm a Women Techmakers Ambassador :purple_heart:
 
 ### Questions? Are you looking for mentorship?.. Feel free to contact me:
-<a href="https://twitter.com/noeleo25"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" align="left" height="48" width="48" alt="Twitter" > </a>
+<a href="https://twitter.com/noeleo25"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" align="left" height="24" width="24 alt="Twitter" > </a>
 (noemileon.dev) [https://noemileon.dev]
