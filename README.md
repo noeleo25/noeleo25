@@ -21,13 +21,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" align="left" height="48" width="48" alt="Jest" >
 <br><br><br>
 
+> Knowledge is the only good that grows the more it is shared
 
 ### I enjoy learning and sharing tech skills, so I'm currently teaching at LinkedIn Learning.
 
-> Knowledge is the only good that grows the more it is shared
-
-I also share with communities as speacker or mentor. I'm a **Women Techmakers Ambassador** :purple_heart:
+I also share with communities as speacker and mentor. I'm a **Women Techmakers Ambassador** :purple_heart:
 
 ### Questions? Are you looking for mentorship?.. Feel free to contact me:
-:bird: (@noeleo25)[https://twitter.com/noeleo25] <br>
-:earth_americas: (noemileon.dev) [https://noemileon.dev]
+:bird: [@noeleo25](https://twitter.com/noeleo25) <br>
+:earth_americas: [noemileon.dev](https://noemileon.dev)
