@@ -23,7 +23,7 @@
 
 > <strong> Knowledge is the only good that grows the more it is shared </strong>
 
-### I enjoy learning and sharing tech skills, so I'm currently teaching at LinkedIn Learning.
+I enjoy learning and sharing tech skills, so I'm currently teaching at LinkedIn Learning.
 I also share with communities as speacker and mentor. I'm a **Women Techmakers Ambassador** :purple_heart:
 
 ### Questions? Are you looking for mentorship?.. Feel free to contact me:
