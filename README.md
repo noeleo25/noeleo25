@@ -21,8 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" align="left" height="48" width="48" alt="Jest" >
 <br><br><br>
 
-
-## > Knowledge is the only good that grows the more it is shared
+> <strong> Knowledge is the only good that grows the more it is shared </strong>
 
 ### I enjoy learning and sharing tech skills, so I'm currently teaching at LinkedIn Learning.
 I also share with communities as speacker and mentor. I'm a **Women Techmakers Ambassador** :purple_heart:
